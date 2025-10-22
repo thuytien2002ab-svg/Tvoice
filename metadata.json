@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chuyển văn bản thành giọng nói",
+  "description": "Một ứng dụng web chuyển đổi văn bản thành giọng nói tự nhiên bằng API Gemini. Nhập văn bản, chọn giọng nói và nghe âm thanh được tạo ra.",
+  "requestFramePermissions": []
+}
